@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gg_icon",
+    "texture": "82d0b11f-cd3a-4b81-9765-827711e55be8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      71
+    ]
+  }
+}

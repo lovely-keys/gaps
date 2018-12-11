@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boxer_clip",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "46769e1a-e5bf-47d8-8044-7228a45741e2"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "599988cf-9795-40e7-8bca-a95b4d1a4e82"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "1979472c-03cc-4d07-9465-116ba485c9cd"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b4c5d989-ffa2-4fbf-a160-6f5dfe6ffa71"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "6fd059d7-7010-40df-ad09-60e5fb93f6fa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

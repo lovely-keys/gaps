@@ -1,0 +1,316 @@
+2018-12-11T05:53:56.919Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-11T05:53:56.925Z - normal: checking language setting...
+2018-12-11T05:53:56.926Z - normal: Language: en
+2018-12-11T05:53:59.278Z - success: protocol editor-framework registered
+2018-12-11T05:53:59.278Z - success: protocol app registered
+2018-12-11T05:53:59.278Z - success: protocol theme registered
+2018-12-11T05:53:59.278Z - success: protocol packages registered
+2018-12-11T05:53:59.278Z - success: protocol unpack registerred
+2018-12-11T05:53:59.279Z - success: protocol disable-commonjs registerred
+2018-12-11T05:54:03.575Z - normal: failed to connect login server due to request timeout
+2018-12-11T05:54:03.579Z - normal: Check project C:\Users\och\Downloads\gaps
+2018-12-11T05:54:03.583Z - normal: Initializing Cocos2d
+2018-12-11T05:54:05.879Z - normal: Initializing Asset Database
+2018-12-11T05:54:05.942Z - success: protocol uuid registerred
+2018-12-11T05:54:05.942Z - success: protocol db registerred
+2018-12-11T05:54:05.942Z - success: protocol thumbnail registerred
+2018-12-11T05:54:05.942Z - normal: Loading editor/builtin packages
+2018-12-11T05:54:05.974Z - success: anysdk loaded
+2018-12-11T05:54:06.158Z - success: assets loaded
+2018-12-11T05:54:06.162Z - success: builder loaded
+2018-12-11T05:54:06.165Z - success: cocos-analytics loaded
+2018-12-11T05:54:06.170Z - success: console loaded
+2018-12-11T05:54:06.230Z - success: fb-instant-games loaded
+2018-12-11T05:54:06.235Z - success: hierarchy loaded
+2018-12-11T05:54:06.238Z - success: inspector loaded
+2018-12-11T05:54:06.240Z - success: keystore loaded
+2018-12-11T05:54:06.243Z - success: node-library loaded
+2018-12-11T05:54:06.246Z - success: package-asset loaded
+2018-12-11T05:54:06.248Z - success: preferences loaded
+2018-12-11T05:54:06.251Z - success: project-exporter loaded
+2018-12-11T05:54:06.275Z - success: project-importer loaded
+2018-12-11T05:54:06.277Z - success: project-settings loaded
+2018-12-11T05:54:06.281Z - success: ui-kit loaded
+2018-12-11T05:54:06.284Z - success: ui-grid loaded
+2018-12-11T05:54:06.288Z - success: scene loaded
+2018-12-11T05:54:06.289Z - success: sprite-editor loaded
+2018-12-11T05:54:06.293Z - success: store loaded
+2018-12-11T05:54:06.299Z - success: timeline loaded
+2018-12-11T05:54:06.299Z - normal: Loading builtin packages
+2018-12-11T05:54:06.304Z - success: asset-db-debugger loaded
+2018-12-11T05:54:06.306Z - success: code-editor loaded
+2018-12-11T05:54:06.307Z - success: color-picker loaded
+2018-12-11T05:54:06.310Z - success: package-manager loaded
+2018-12-11T05:54:06.313Z - success: qqplay-adapter loaded
+2018-12-11T05:54:06.318Z - success: sdkbox loaded
+2018-12-11T05:54:06.322Z - success: tester loaded
+2018-12-11T05:54:06.325Z - success: ui-kit-preview-extra loaded
+2018-12-11T05:54:06.327Z - success: ui-kit-preview loaded
+2018-12-11T05:54:06.329Z - success: ui-tree loaded
+2018-12-11T05:54:06.330Z - success: weapp-adapter loaded
+2018-12-11T05:54:08.224Z - normal: Initializing project C:\Users\och\Downloads\gaps
+2018-12-11T05:54:08.236Z - normal: Loading packages
+2018-12-11T05:54:08.247Z - normal: Watching packages
+2018-12-11T05:54:08.745Z - normal: Run Application
+2018-12-11T05:54:09.785Z - success: preview server running at http://localhost:7456
+2018-12-11T05:54:19.843Z - normal: 1.9.3
+2018-12-11T05:54:31.448Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-12-11T05:54:31.451Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-12-11T05:54:31.451Z - normal: Simulator: FRAME SCALE = 1.00
+2018-12-11T05:54:31.721Z - normal: Simulator: Ready for GLSL
+2018-12-11T05:54:31.721Z - normal: Simulator: Ready for OpenGL 2.0
+2018-12-11T05:54:31.721Z - normal: Simulator: 
+2018-12-11T05:54:31.721Z - normal: Simulator: {
+2018-12-11T05:54:31.722Z - normal: Simulator: 	gl.version: 4.5.13399 Compatibility Profile Context 15.201.1151.1008
+2018-12-11T05:54:31.722Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-12-11T05:54:31.722Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-12-11T05:54:31.723Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-12-11T05:54:31.724Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-12-11T05:54:31.724Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-12-11T05:54:31.724Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-12-11T05:54:31.724Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-12-11T05:54:31.725Z - normal: Simulator: 	gl.vendor: ATI Technologies Inc.
+2018-12-11T05:54:31.725Z - normal: Simulator: 	gl.renderer: AMD Radeon HD 6700 Series
+2018-12-11T05:54:31.725Z - normal: Simulator: 	gl.max_texture_units: 108
+2018-12-11T05:54:31.725Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-12-11T05:54:31.725Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-12-11T05:54:31.726Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-12-11T05:54:31.726Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-12-11T05:54:31.726Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-12-11T05:54:31.726Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-12-11T05:54:31.726Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-12-11T05:54:31.726Z - normal: Simulator: }
+2018-12-11T05:54:31.727Z - normal: Simulator: 
+2018-12-11T05:54:31.727Z - normal: Simulator: 
+2018-12-11T05:54:31.727Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-12-11T05:54:31.727Z - normal: Simulator: Project Config:
+2018-12-11T05:54:31.727Z - normal: Simulator:     project dir: C:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-12-11T05:54:31.728Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-12-11T05:54:31.728Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-12-11T05:54:31.728Z - normal: Simulator:     frame size: 640 x 960
+2018-12-11T05:54:31.728Z - normal: Simulator:     frame scale: 1.00
+2018-12-11T05:54:31.728Z - normal: Simulator:     show console: NO
+2018-12-11T05:54:31.729Z - normal: Simulator:     write debug log: NO ()
+2018-12-11T05:54:31.729Z - normal: Simulator:     listen: 
+2018-12-11T05:54:31.729Z - normal: Simulator:     debugger: none
+2018-12-11T05:54:31.729Z - normal: Simulator:     add searching path:
+2018-12-11T05:54:31.730Z - normal: Simulator: 
+2018-12-11T05:54:31.730Z - normal: Simulator: 
+2018-12-11T05:54:31.730Z - normal: Simulator: 
+2018-12-11T05:54:31.730Z - normal: Simulator: ------------------------------------------------
+2018-12-11T05:54:31.731Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-11T05:54:31.731Z - normal: Simulator: ------------------------------------------------
+2018-12-11T05:54:31.731Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-12-11T05:54:32.121Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-12-11T05:54:32.124Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-12-11T05:54:32.125Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-12-11T05:54:32.264Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-12-11T05:54:32.567Z - normal: Simulator: iShow!
+2018-12-11T05:54:32.725Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 4.254000000000019ms
+2018-12-11T05:54:32.737Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.2380000000000564ms
+2018-12-11T05:54:32.738Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.14000000000010004ms
+2018-12-11T05:54:32.738Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.012000000000057298ms
+2018-12-11T05:54:32.743Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:54:32.759Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:54:32.760Z - normal: Simulator: D/jswrapper (125): JS: Activate: 19.71799999999996ms
+2018-12-11T05:54:45.816Z - normal: Simulator: D/jswrapper (125): JS: click share button
+2018-12-11T05:54:45.816Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught TypeError: Cannot read property 'toTempFilePath' of undefined, location: assets/script/main.js:0:0
+2018-12-11T05:54:45.817Z - normal: Simulator: STACK:
+2018-12-11T05:54:45.817Z - normal: Simulator: [0]anonymous@assets/script/main.js:29
+2018-12-11T05:54:45.817Z - normal: Simulator: [1]76.EventListeners.invoke@src/jsb_polyfill.js:10862
+2018-12-11T05:54:45.817Z - normal: Simulator: [2]_doDispatchEvent@src/jsb_polyfill.js:10908
+2018-12-11T05:54:45.817Z - normal: Simulator: [3]77.proto.dispatchEvent@src/jsb_polyfill.js:11025
+2018-12-11T05:54:45.817Z - normal: Simulator: [4]_touchEndHandler@src/jsb_polyfill.js:2173
+2018-12-11T05:54:45.818Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0B12B058) failed!
+2018-12-11T05:54:45.818Z - normal: Simulator: jsb: ERROR: File ..\manual\jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-12-11T05:54:45.818Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-12-11T05:54:47.570Z - normal: Simulator: D/jswrapper (125): JS: LoadScene d53055eb-5e72-4042-af6a-db30f6dc7026: 188.33699999999953ms
+2018-12-11T05:54:47.610Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 36.47599999999875ms
+2018-12-11T05:54:47.610Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.1639999999988504ms
+2018-12-11T05:54:47.621Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 12.609000000000378ms
+2018-12-11T05:54:47.621Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013999999999214197ms
+2018-12-11T05:54:47.647Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:54:47.649Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:54:47.650Z - normal: Simulator: D/jswrapper (125): JS: Activate: 27.91699999999946ms
+2018-12-11T05:55:12.707Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:12.712Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:15.206Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7d8e09f5-bf18-4efc-aba2-b16b0e176f4f: 16.333999999995285ms
+2018-12-11T05:55:15.219Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.1160000000018044ms
+2018-12-11T05:55:15.219Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.02800000000570435ms
+2018-12-11T05:55:15.273Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 63.05200000000332ms
+2018-12-11T05:55:15.273Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008999999998195563ms
+2018-12-11T05:55:15.286Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:15.286Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:15.286Z - normal: Simulator: D/jswrapper (125): JS: Activate: 9.059000000001106ms
+2018-12-11T05:55:17.260Z - normal: Simulator: D/jswrapper (125): JS: LoadScene d53055eb-5e72-4042-af6a-db30f6dc7026: 35.292999999997846ms
+2018-12-11T05:55:17.301Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 37.203999999997905ms
+2018-12-11T05:55:17.301Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.14499999999679858ms
+2018-12-11T05:55:17.304Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.480999999999767ms
+2018-12-11T05:55:17.304Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008000000001629815ms
+2018-12-11T05:55:17.319Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:17.319Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:17.337Z - normal: Simulator: D/jswrapper (125): JS: Activate: 24.43800000000192ms
+2018-12-11T05:55:18.850Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.852Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.869Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.884Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.897Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.898Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.913Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.914Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.915Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.919Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.922Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.924Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.925Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.930Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.930Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.930Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.933Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.937Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.939Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.940Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.942Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.950Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.951Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.951Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.952Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.953Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.954Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.956Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.957Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.959Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.963Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.965Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.966Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.967Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.969Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.971Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.972Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:18.997Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:19.002Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:19.005Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:19.007Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:19.018Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:19.018Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:23.094Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.097Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.099Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.105Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.108Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.119Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.119Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.124Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.135Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.135Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.139Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.146Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.149Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.153Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:23.193Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:37.204Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:37.204Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:39.717Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7d8e09f5-bf18-4efc-aba2-b16b0e176f4f: 16.885999999998603ms
+2018-12-11T05:55:39.721Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 5.474000000001979ms
+2018-12-11T05:55:39.721Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.02899999999499414ms
+2018-12-11T05:55:39.808Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 86.21499999999651ms
+2018-12-11T05:55:39.808Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.013000000006286427ms
+2018-12-11T05:55:39.812Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:39.814Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:39.815Z - normal: Simulator: D/jswrapper (125): JS: Activate: 7.467999999993481ms
+2018-12-11T05:55:43.299Z - normal: Simulator: D/jswrapper (125): JS: LoadScene d53055eb-5e72-4042-af6a-db30f6dc7026: 30.65899999999965ms
+2018-12-11T05:55:43.334Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 35.119000000006054ms
+2018-12-11T05:55:43.335Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.13400000000547152ms
+2018-12-11T05:55:43.340Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.232000000003609ms
+2018-12-11T05:55:43.340Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.0079999999870779ms
+2018-12-11T05:55:43.351Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:43.354Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:43.370Z - normal: Simulator: D/jswrapper (125): JS: Activate: 26.846999999994296ms
+2018-12-11T05:55:51.232Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:51.234Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:53.949Z - normal: Simulator: D/jswrapper (125): JS: LoadScene 7d8e09f5-bf18-4efc-aba2-b16b0e176f4f: 16.64299999999639ms
+2018-12-11T05:55:53.952Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 3.0979999999981374ms
+2018-12-11T05:55:53.952Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.02800000000570435ms
+2018-12-11T05:55:54.000Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 47.588000000003376ms
+2018-12-11T05:55:54.000Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008000000001629815ms
+2018-12-11T05:55:54.004Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:54.006Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:54.007Z - normal: Simulator: D/jswrapper (125): JS: Activate: 7.76600000000326ms
+2018-12-11T05:55:55.151Z - normal: Simulator: D/jswrapper (125): JS: LoadScene d53055eb-5e72-4042-af6a-db30f6dc7026: 35.94199999999546ms
+2018-12-11T05:55:55.187Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 36.161000000007334ms
+2018-12-11T05:55:55.187Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.1319999999977881ms
+2018-12-11T05:55:55.200Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 5.302999999999884ms
+2018-12-11T05:55:55.200Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008000000001629815ms
+2018-12-11T05:55:55.201Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:55.230Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:55.232Z - normal: Simulator: D/jswrapper (125): JS: Activate: 37.29100000001199ms
+2018-12-11T05:55:56.666Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.669Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.671Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.685Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.686Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.686Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.687Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.700Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.700Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.701Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.705Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.712Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.714Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.720Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:56.755Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:59.142Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.144Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.146Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.148Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.150Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.153Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.153Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.154Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.158Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.168Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.169Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.169Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.169Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.170Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.170Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.170Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.172Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.182Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.182Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.182Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.183Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.183Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.183Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.184Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.187Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.190Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.190Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.194Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.195Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.195Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.197Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.199Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.201Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.202Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.204Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.205Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.206Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-12-11T05:55:59.227Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:59.234Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:59.236Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:59.237Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:59.240Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:55:59.250Z - normal: Simulator: ClippingNode warning: _stencil is nil.
+2018-12-11T05:56:05.438Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-12-11T05:56:05.438Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 2468, all objects: 2765
+2018-12-11T05:56:05.508Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 829, all objects: 1124
+2018-12-11T05:56:05.552Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 829, all objects: 1112
+2018-12-11T05:56:05.609Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 829, all objects: 1112
+2018-12-11T05:56:05.614Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-12-11T05:56:05.658Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-12-11T05:56:05.683Z - normal: Simulator: D/jswrapper (482): Starting to cleanup dragonbones object, count: 0
+2018-12-11T05:56:05.684Z - normal: Simulator: D/jswrapper (501): After first cleanup, dragonbones object remained count: 0
+2018-12-11T05:56:05.684Z - normal: Simulator: D/jswrapper (517): After second cleanup, dragonbones object remained count: 0
+2018-12-11T05:56:05.684Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-12-11T05:56:22.269Z - info: shutdown preview server

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "04b68e63-42d6-4368-9ffb-3f869850d8d9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mian_signIn_1": {
+      "ver": "1.0.3",
+      "uuid": "49374140-6c9d-406f-bd1d-4fbba9ce524c",
+      "rawTextureUuid": "04b68e63-42d6-4368-9ffb-3f869850d8d9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 56,
+      "rawWidth": 62,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

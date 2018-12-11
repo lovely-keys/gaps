@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mian_check",
+    "texture": "6aeebb3d-80b6-4ba4-9af2-22dec5dad22d",
+    "atlas": "",
+    "rect": [
+      1,
+      4,
+      64,
+      64
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      67,
+      69
+    ]
+  }
+}

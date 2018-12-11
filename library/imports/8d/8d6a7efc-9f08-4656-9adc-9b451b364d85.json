@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "modal_back",
+    "texture": "25e03e93-fe10-4a9d-822f-c20ff54868d8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      538,
+      754
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      540,
+      756
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mian_signIn_2",
+    "texture": "4bb4ad9b-9954-4e78-8989-9d808a4ac424",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      56
+    ]
+  }
+}

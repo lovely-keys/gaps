@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_shadow",
+    "texture": "78e48c59-82aa-4c75-877e-aa261961b36e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      18
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      18
+    ]
+  }
+}

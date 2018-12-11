@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "46e93d00-50c6-469e-9254-472c9618234c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mian_shop": {
+      "ver": "1.0.3",
+      "uuid": "fa06b1c5-b6d9-4370-bc7f-7e93714f04be",
+      "rawTextureUuid": "46e93d00-50c6-469e-9254-472c9618234c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 62,
+      "rawWidth": 62,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

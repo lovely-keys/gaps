@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mian_achieve",
+    "texture": "0f1e6027-6999-4f8d-9b38-7d3e432e2a3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      86,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      86,
+      70
+    ]
+  }
+}

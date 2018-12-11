@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "achieve_progress_1",
+    "texture": "5df3a721-ce55-45ea-94a1-bbbd5acafdb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      240,
+      17
+    ]
+  }
+}

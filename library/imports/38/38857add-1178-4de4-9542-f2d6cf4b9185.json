@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ranking_crossing",
+    "texture": "c378a54d-a6c5-4c4c-83b3-2f16e7ad6cf5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      680,
+      336
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      680,
+      336
+    ]
+  }
+}

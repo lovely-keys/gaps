@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shop_gold_frame",
+    "texture": "fd95b364-b67d-4dd5-895c-65d28b00fa4a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      238,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      238,
+      56
+    ]
+  }
+}
